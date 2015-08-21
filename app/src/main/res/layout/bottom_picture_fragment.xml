@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent" android:layout_height="match_parent"
-    android:background="@drawable/Melody_of_Fairy"
+    android:background="@drawable/melody_of_fairy"
     android:clickable="false">
 
     <TextView
@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/top_text"
-        android:id="@+id/textView"
+        android:id="@+id/topMemeText"
         android:gravity="center_horizontal"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/bottom_text"
-        android:id="@+id/textView2"
+        android:id="@+id/bottomMemeText"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:gravity="center_horizontal"

@@ -15,11 +15,12 @@
         android:layout_centerHorizontal="true" />
 
     <fragment
-        android:layout_width="250dp"
-        android:layout_height="355dp"
+        android:layout_width="248dp"
+        android:layout_height="352dp"
         android:name="com.tokinonagare.www.memecreator.BottomPictureFragment"
         android:id="@+id/fragment2"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         tools:layout="@layout/bottom_picture_fragment" />
+
 </RelativeLayout>
