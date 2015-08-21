@@ -7,7 +7,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="0dp"
         android:width="300dp"/>
 
     <EditText
@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/topTextInput"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="2dp"
         android:width="300dp"/>
 
     <Button
@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_text"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="3dp"
         android:layout_below="@+id/bottomTextInput"
         android:layout_centerHorizontal="true" />
 
